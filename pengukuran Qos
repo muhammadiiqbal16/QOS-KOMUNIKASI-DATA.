@@ -1,0 +1,34 @@
+Troughput
+Throughput merupakan jumlah total kedatangan paket yang sukses yang diamati pada destination selama interval waktu tertentu dibagi oleh durasi interval waktu tersebut.
+
+Troughput = 60647418 / 2004.873 s
+= 30250.0048
+ bytes/sec 1 bytes = 8bit
+= 30250.0048x 8
+= 242000.03 bit/sec
+
+Delay
+Delay adalah waktu tunda yang dibutuhkan suatu paket data yang di kirim oleh sumber untuk mencapai tujuan karena adanya antrian, atau mengambil rute lain untuk menghindari kemacetan.
+
+
+Delay = 2004.873/72328
+= 0,0027 sec
+= 2,7 ms
+ 
+Packet Loss
+Packet Loss merupakan suatu parameter yang menggambarkan suatu kondisi yang menunjukkan jumlah total paket yang hilang, dapat terjadi karena collision dan congestion pada jaringan.
+
+Packet loss = (72328– 72328) / 72328 x 100%
+= 0 x 100%
+= 0%
+
+Jitter
+Jitter merupakan variasi delay (perbedaan selang waktu) antar paket yang terjadi pada jaringan, yang disebabkan oleh panjangnya antrian pada saat pengolahan data yang terjadi pada jaringan.
+
+
+Variasi delay = 2004.873 – 0,0027
+= 2004.8703
+
+Jitter = 2004.8703/ 72328
+= 0,02771 s
+= 2,77 ms
